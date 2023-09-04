@@ -1,0 +1,1 @@
+# Jamckovoj-Vlad-Algoritm
