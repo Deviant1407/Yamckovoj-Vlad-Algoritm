@@ -1,1 +1,1 @@
-# Jamckovoj-Vlad-Algoritm
+Знаю Python, C#, HTML, CSS, JavaScript.
