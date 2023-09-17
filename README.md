@@ -16,6 +16,6 @@ ____
 - HTML - Марина Трифонова
 - CSS - Денис Филатов
 - JS - Влад Ямковой
-https://mogu.so/board/7cQVsGZARyJnWVY1HRVV99#
+[https://mogu.so/](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
 ____
 Совместная работа — Марина
