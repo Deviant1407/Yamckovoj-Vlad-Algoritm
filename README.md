@@ -10,12 +10,12 @@ ____
 Многие проекты были удалены на этапе создания (примерно **70%** всех проектов). Остальные **30%** либо остались как наработки для будующих проектов, либо были доведены до завершения (меньше **~1%** оставшихся проектов). :mag:
 
 ## Файлы
-https://docs.google.com/document/d/12XMHyE0D_Qme4q87JajUZaMgZcfODKRm/edit?usp=drivesdk&ouid=117505591588895423782&rtpof=true&sd=true
+[Папка с конспектами](https://docs.google.com/document/d/12XMHyE0D_Qme4q87JajUZaMgZcfODKRm/edit?usp=drivesdk&ouid=117505591588895423782&rtpof=true&sd=true)
 ____
 ## Команда
 - HTML - Марина Трифонова
 - CSS - Денис Филатов
 - JS - Влад Ямковой
-[https://mogu.so/](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
+[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
 ____
 Совместная работа — Марина
