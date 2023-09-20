@@ -1,0 +1,123 @@
+html, body {
+    margin: 0px;
+}
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+  /*margin-top: auto;*/
+  width: 1000px;
+}
+#header {
+    height: 15%;
+    width: 100%;
+    background-color: black;
+    color: white;
+	margin-left: 70px;
+}
+#logo_blok {
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#clock_blok {
+    float: right;
+    width: 15%;
+    height: 100%;
+}
+#clock {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#main {
+    height: 685px;
+    width: 100%;
+    background: no-repeat linear-gradient(#1b1b1b, #2f2f2f);
+}
+#table_main {
+    width: 100%;
+    height: 100%;
+    padding: 40px;
+	margin-left: 30px;
+}
+#blok_1x1_2x2 {
+    width:40%;
+	height:66%;
+}
+
+#blok_4x1_5x2 {
+    width:40%;
+	height:66%;
+}
+
+#blok_4x1 {
+    width:20%;
+	height:33%;
+}
+
+#blok_4x2 {
+    width:20%;
+	height:33%;
+}
+
+#blok_1x3 {
+    width:20%;
+	height:34%;
+}
+
+#blok_2x3 {
+    width:20%;
+	height:34%;
+}
+
+#blok_3x3 {
+    width:20%;
+	height:34%;
+}
+
+#blok_4x3_5x3 {
+    width:40%;
+	height:34%;
+}
+
+
+#footer {
+    height: 20%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.close {
+    display: none;
+}
+
+.name {
+    height: 20%;
+    width: 100%;
+}
+
+.footer {
+    height: 20%;
+    width: 100%;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.higher_1 {
+    position: relative;
+    z-index: 1;
+}
+.higher_2 {
+    position: relative;
+    z-index: 2;
+}
+
+.photo-1 {
+    width: 100%;
+    height: 100%;
+}
