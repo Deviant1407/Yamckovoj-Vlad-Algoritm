@@ -2,17 +2,20 @@ html, body {
     margin: 0px;
 }
 body {
-  margin-left: 20%;
-  margin-right: 20%;
-  /*margin-top: auto;*/
-  width: 1000px;
+  width: 100%;
+  height: none;
+}
+/*1 слой*/
+#higer1 {
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #header {
-    height: 15%;
+    height: 20%;
     width: 100%;
     background-color: black;
     color: white;
-	margin-left: 70px;
+    margin-left: 70px;
 }
 #logo_blok {
     float: left;
@@ -30,8 +33,8 @@ body {
 }
 
 #main {
-    height: 685px;
     width: 100%;
+    height: 80%;
     background: no-repeat linear-gradient(#1b1b1b, #2f2f2f);
 }
 #table_main {
@@ -87,7 +90,49 @@ body {
     background-color: black;
     color: white;
 }
-
+/*2 слой*/
+#history {
+    width: 100%;
+    background: #2f2f2f;
+    color: #9d9d9d;
+}
+#night_sity {
+    width: 100%;
+    height: 100%;
+}
+#red_square {
+    width: 100%;
+    height: 100%;
+}
+#moscow_river {
+    width: 100%;
+    height: 100%;
+}
+#church {
+    width: 100%;
+    height: 100%;
+    background: #2f2f2f;
+    color: #9d9d9d;
+}
+#museums {
+    width: 100%;
+    height: 100%;
+    background: #2f2f2f;
+    color: #9d9d9d;
+}
+#theatres {
+    width: 100%;
+    height: 100%;
+    background: #2f2f2f;
+    color: #9d9d9d;
+}
+#about_the_team {
+    width: 100%;
+    height: 100%;
+    background: #2f2f2f;
+    color: #9d9d9d;
+}
+/*Классы*/
 .close {
     display: none;
 }
@@ -120,4 +165,40 @@ body {
 .photo-1 {
     width: 100%;
     height: 100%;
+}
+
+.blok-1 {
+    width: 20%;
+    height: 33.3%;
+}
+.blok-2 {
+    width: 40%;
+    height: 33.3%;
+}
+.blok-3 {
+    width: 40%;
+    height: 66.6%;
+}
+
+.photo-S-1 {
+    width: 90%;
+    height: 100%;
+}
+.photo-S-2 {
+    width: 40%;
+    height: 20%;
+}
+.table_team_blok {
+    width: 33.3%;
+    height: 20%;
+}
+.width {
+    width: 60%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.text {
+    position: absolute;
+    left: 20%;
+    right: 20%;
 }
