@@ -25,6 +25,13 @@ let Active_blok_8 = false;
 function open_1() {
     if (Active_blok_1 == false) {
         blok_1.classList.remove("close");
+        blok_2.classList.add("close");
+        blok_3.classList.add("close");
+        blok_4.classList.add("close");
+        blok_5.classList.add("close");
+        blok_6.classList.add("close");
+        blok_7.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_1 = true;
     }
     else if (Active_blok_1 == true) {
@@ -36,6 +43,13 @@ function open_1() {
 function open_2 () {
     if (Active_blok_2 == false) {
         blok_2.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_3.classList.add("close");
+        blok_4.classList.add("close");
+        blok_5.classList.add("close");
+        blok_6.classList.add("close");
+        blok_7.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_2 = true;
     }
     else if (Active_blok_2 == true) {
@@ -46,6 +60,13 @@ function open_2 () {
 function open_3 () {
     if (Active_blok_3 == false) {
         blok_3.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_2.classList.add("close");
+        blok_4.classList.add("close");
+        blok_5.classList.add("close");
+        blok_6.classList.add("close");
+        blok_7.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_3 = true;
     }
     else if (Active_blok_3 == true) {
@@ -56,6 +77,13 @@ function open_3 () {
 function open_4 () {
     if (Active_blok_4 == false) {
         blok_4.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_2.classList.add("close");
+        blok_3.classList.add("close");
+        blok_5.classList.add("close");
+        blok_6.classList.add("close");
+        blok_7.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_4 = true;
     }
     else if (Active_blok_4 == true) {
@@ -66,6 +94,13 @@ function open_4 () {
 function open_5 () {
     if (Active_blok_5 == false) {
         blok_5.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_2.classList.add("close");
+        blok_3.classList.add("close");
+        blok_4.classList.add("close");
+        blok_6.classList.add("close");
+        blok_7.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_5 = true;
     }
     else if (Active_blok_5 == true) {
@@ -76,6 +111,13 @@ function open_5 () {
 function open_6 () {
     if (Active_blok_6 == false) {
         blok_6.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_2.classList.add("close");
+        blok_3.classList.add("close");
+        blok_4.classList.add("close");
+        blok_5.classList.add("close");
+        blok_7.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_6 = true;
     }
     else if (Active_blok_6 == true) {
@@ -86,6 +128,13 @@ function open_6 () {
 function open_7 () {
     if (Active_blok_7 == false) {
         blok_7.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_2.classList.add("close");
+        blok_3.classList.add("close");
+        blok_4.classList.add("close");
+        blok_5.classList.add("close");
+        blok_6.classList.add("close");
+        blok_8.classList.add("close");
         Active_blok_7 = true;
     }
     else if (Active_blok_7 == true) {
@@ -96,6 +145,13 @@ function open_7 () {
 function open_8 () {
     if (Active_blok_8 == false) {
         blok_8.classList.remove("close");
+        blok_1.classList.add("close");
+        blok_2.classList.add("close");
+        blok_3.classList.add("close");
+        blok_4.classList.add("close");
+        blok_5.classList.add("close");
+        blok_6.classList.add("close");
+        blok_7.classList.add("close");
         Active_blok_8 = true;
     }
     else if (Active_blok_8 == true) {
