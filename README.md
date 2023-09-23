@@ -11,7 +11,7 @@ ____
 
 ## Файлы
 [Папка с конспектами](https://docs.google.com/document/d/12XMHyE0D_Qme4q87JajUZaMgZcfODKRm/edit?usp=drivesdk&ouid=117505591588895423782&rtpof=true&sd=true)
-[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Сайт v2/index.html)
+[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Сайтv2/index.html)
 ____
 ## Команда
 - HTML - Марина Трифонова
