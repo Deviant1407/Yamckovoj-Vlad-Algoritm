@@ -1,0 +1,102 @@
+html, body {
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+body {
+  width: 100%;
+  height: none;
+}
+/*список*/
+ul {
+    margin: 0;
+    padding: 4px;
+}
+li {
+    display: inline;
+    margin-right: 5px;
+    font-size: 20px;
+}
+/*1 слой*/
+#header {
+    width: 100%;
+    height: 100px;
+    background-color: #1b1b1b;
+    color: #9d9d9d;
+}
+#logo_blok {
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#menu {
+    float: left;
+    width: 60%;
+    height: 100%;
+}
+#clock_blok {
+    float: right;
+    width: 15%;
+    height: 100%;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#main {
+    width: 100%;
+    background: no-repeat linear-gradient(#1b1b1b, #2f2f2f);
+}
+
+#history {
+    width: 100%;
+    color: #9d9d9d;
+}
+#church {
+    width: 100%;
+    height: 100%;
+    color: #9d9d9d;
+}
+#museums {
+    width: 100%;
+    height: 100%;
+    color: #9d9d9d;
+}
+#theatres {
+    width: 100%;
+    height: 100%;
+    color: #9d9d9d;
+}
+
+#footer {
+    height: 20%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+/*Классы*/
+
+.name {
+    height: 20%;
+    width: 100%;
+}
+
+.photo-1 {
+    width: 100%;
+    height: 100%;
+}
+.photo-S-2 {
+    width: 640px;
+    height: 360px;
+}
+
+.width {
+    width: 60%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.Separation {
+    width: 100%;
+    height: 10%;
+    background-color: #9d9d9d;
+    color: #9d9d9d;
+}
