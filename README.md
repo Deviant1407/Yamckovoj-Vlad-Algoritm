@@ -17,6 +17,6 @@ ____
 - CSS - Денис Филатов
 - JS - Влад Ямковой
 [Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
-[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Сайтv2/index.html)
+[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Site-1/index.html)
 ____
 Совместная работа — Марина
