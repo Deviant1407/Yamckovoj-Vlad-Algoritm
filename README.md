@@ -10,7 +10,8 @@ ____
 Многие проекты были удалены на этапе создания (примерно **70%** всех проектов). Остальные **30%** либо остались как наработки для будующих проектов, либо были доведены до завершения (меньше **~1%** оставшихся проектов). :mag:
 
 ## Файлы
-[Папка с конспектами](https://docs.google.com/document/d/12XMHyE0D_Qme4q87JajUZaMgZcfODKRm/edit?usp=drivesdk&ouid=117505591588895423782&rtpof=true&sd=true)
+[Конспект](https://docs.google.com/document/d/12XMHyE0D_Qme4q87JajUZaMgZcfODKRm/edit?usp=drivesdk&ouid=117505591588895423782&rtpof=true&sd=true)
+<br>
 [Replit](https://replit.com/@vladgg566)
 ____
 ## Команда
@@ -18,6 +19,7 @@ ____
 - CSS - Денис Филатов
 - JS - Влад Ямковой
 [Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
+<br>
 [Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Site-1/index.html)
 ____
 Совместная работа — Марина
