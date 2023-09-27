@@ -18,8 +18,11 @@ ____
 - HTML - Марина Трифонова
 - CSS - Денис Филатов
 - JS - Влад Ямковой
-[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
 <br>
-[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Site-1/index.html)
-____
+
+[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP) 
+<br>
+[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Site-1/index.html) 
+<br>
+<br>
 Совместная работа — Марина
