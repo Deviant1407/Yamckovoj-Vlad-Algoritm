@@ -6,7 +6,7 @@
 - **CSS** (Пробовал до начала обучения, но после забросил. Уже во время обучения были базовые знания.)
 - **JavaScript** (До обучения не использовал, сейчас владею на 40-50%)
 - **Java** (Пробовал делать датапаки для игры *Minecraft*, сейчас практически не помню)
-____
+<br>
 Многие проекты были удалены на этапе создания (примерно **70%** всех проектов). Остальные **30%** либо остались как наработки для будующих проектов, либо были доведены до завершения (меньше **~1%** оставшихся проектов). :mag:
 
 ## Файлы
@@ -15,14 +15,10 @@ ____
 [Replit](https://replit.com/@vladgg566)
 ____
 ## Команда
-- HTML - Марина Трифонова
-- CSS - Денис Филатов
-- JS - Влад Ямковой <br>
-
-[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP) 
+- Дизайн - Гесь Арина, {Данные удалены}
+- Функционал - Ямковой Влад, Марина Трифанова
 <br>
-[Сайт](https://Deviant1407.github.io/Yamckovoj-Vlad-Algoritm/Site-1/index.html) 
+[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP) 
 <br>
 [Habr](https://freelance.habr.com/freelancers/Deviant1407)
 <br>
-Совместная работа — Марина
