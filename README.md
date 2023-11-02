@@ -15,10 +15,10 @@
 [Replit](https://replit.com/@vladgg566)
 ____
 ## Команда
-- Дизайн - Гесь Арина, {Данные удалены}
-- Функционал - Ямковой Влад, Марина Трифанова
-<br>
-[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP) 
+- Дизайн - Гесь Арина
+- Функционал - Ямковой Влад, Марина Трифанова <br>
+
+[Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
 <br>
 [Habr](https://freelance.habr.com/freelancers/Deviant1407)
 <br>
