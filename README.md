@@ -21,4 +21,5 @@ ____
 [Доска задач](https://mogu.so/inviteLink?inviteBoardId=7cQVsGZARyJnWVY1HRVV99&inviteCode=63ZZiksPuKJU3hJuj2wpOP)
 <br>
 [Habr](https://freelance.habr.com/freelancers/Deviant1407)
-<br>
+___
+[Практика](https://drive.google.com/drive/folders/11vUHwepZBJCFFi2cV3J00BtpSpVmt0jj)
