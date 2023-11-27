@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:48:59.262Z" agent="Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A037F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0 Mobile Safari/537.36" version="22.1.4" etag="abitRhRM3GNa26i9gLNl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:55:27.807Z" agent="Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A037F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0 Mobile Safari/537.36" etag="dxwxP2iweQBHZ2KiFgBe" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="IX5MtCQYYtNMQRi5EpHg">
-    <mxGraphModel>
+    <mxGraphModel dx="654" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xTXtAvsM1R9_nPVLVYlM-1" target="xTXtAvsM1R9_nPVLVYlM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-1" value="Ввод p" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xTXtAvsM1R9_nPVLVYlM-2" target="xTXtAvsM1R9_nPVLVYlM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-2" value="Цикл до p - 1" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="118" y="284" width="164" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-5" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="499" width="176.5" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xTXtAvsM1R9_nPVLVYlM-6" target="xTXtAvsM1R9_nPVLVYlM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-6" value="Суммировать 1 + 1/ (1 + 1)" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="108" y="410" width="184" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-8" value="Цикл" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xTXtAvsM1R9_nPVLVYlM-6" target="xTXtAvsM1R9_nPVLVYlM-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="342" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTXtAvsM1R9_nPVLVYlM-9" value="Склеивание пароля." style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
