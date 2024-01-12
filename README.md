@@ -25,4 +25,4 @@ ____
 ___
 [Практика](https://drive.google.com/drive/folders/11vUHwepZBJCFFi2cV3J00BtpSpVmt0jj)
 ___
-[Конкурсы]()
+[Конкурсы](https://drive.google.com/drive/folders/1TmcUQQ8W-wM8iQejZZlmSU-Uju8WjkXa?usp=sharing)
