@@ -24,3 +24,5 @@ ____
 [Habr](https://freelance.habr.com/freelancers/Deviant1407)
 ___
 [Практика](https://drive.google.com/drive/folders/11vUHwepZBJCFFi2cV3J00BtpSpVmt0jj)
+___
+[Конкурсы]()
