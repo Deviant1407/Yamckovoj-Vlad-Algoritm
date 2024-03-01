@@ -15,6 +15,8 @@
 [Численные методы](https://drive.google.com/drive/folders/1R4K2qigqU7o6GOY5ZAXEU0VFfDp14fv3?usp=sharing)
 <br>
 [Replit](https://replit.com/@vladgg566)
+<br>
+[Код будующего](https://drive.google.com/drive/folders/15GVR6LEeut36axFoKsWZf_72CRi1Xpge?usp=sharing)
 ____
 ## Команда
 - Дизайн - Денис Филатов, Арина Бузанова
